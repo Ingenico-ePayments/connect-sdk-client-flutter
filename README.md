@@ -1,5 +1,9 @@
 # Worldline Connect - Flutter SDK
 
+**This SDK has been rebranded to Worldline. As part of the rebranding the SDK has moved to https://github.com/Worldline-Global-Collect/connect-sdk-client-flutter.**
+
+---
+
 The Worldline Connect Flutter SDK provides a convenient way to support a large number of payments methods inside your Flutter app.
 It is Dart 3 compatible out of the box. 
 
